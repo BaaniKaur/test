@@ -1,0 +1,1 @@
+bdn this chapter, we will discuss how to insert text in Word 2010. Many times it is required to go back and insert additional text in an existing line. Microsoft Word provides two ways to insert text in existing text and we will show how to use both the methods of inserting text −
